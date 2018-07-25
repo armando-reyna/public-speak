@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFF</color>
+    <color name="secondary">#FF3352</color>
+    <color name="primary">#142B3A</color>
+    
+    <!-- Required color by SplashScreen Module -->
+    <color name="primary_dark">#4F6D7A</color>
+</resources>
